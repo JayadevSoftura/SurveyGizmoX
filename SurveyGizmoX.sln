@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyGizmoX", "SurveyGizmoX\SurveyGizmoX.csproj", "{C9D659E6-6AE4-4C3D-8D1B-54A795E29D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurveyGizmoX.Tester", "SurveyGizmoX.Tester\SurveyGizmoX.Tester.csproj", "{E718CA29-0D7A-4E39-AA41-3AB872785CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D659E6-6AE4-4C3D-8D1B-54A795E29D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D659E6-6AE4-4C3D-8D1B-54A795E29D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D659E6-6AE4-4C3D-8D1B-54A795E29D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D659E6-6AE4-4C3D-8D1B-54A795E29D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E718CA29-0D7A-4E39-AA41-3AB872785CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E718CA29-0D7A-4E39-AA41-3AB872785CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E718CA29-0D7A-4E39-AA41-3AB872785CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E718CA29-0D7A-4E39-AA41-3AB872785CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B91A94-73B4-46D6-884D-CF7E2FC9528E}
+	EndGlobalSection
+EndGlobal
