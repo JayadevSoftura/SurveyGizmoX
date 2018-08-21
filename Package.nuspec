@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SurveyGizmoX</id>
+    <version>1.0.2</version>
+    <authors>Ilayaraja Chandresekaran</authors>
+    <owners>Ilayaraja Chandresekaran</owners>
+    <licenseUrl>https://github.com/Code4Apps/SurveyGizmoX</licenseUrl>
+    <projectUrl>https://github.com/Code4Apps/SurveyGizmoX</projectUrl>
+    <iconUrl>https://www.nuget.org/Content/gallery/img/default-package-icon.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Survey Gizmo .Net Client</description>
+    <releaseNotes>Initial Release - Survey Gizmoe Parser only updated</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>SurveyGizmo Survey NSurveyGizmo</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="SurveyGizmoX\bin\Debug\SurveyGizmoX.dll" target="lib" />
+  </files>
+</package>

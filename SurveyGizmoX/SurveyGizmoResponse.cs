@@ -46,8 +46,8 @@ namespace SurveyGizmoX.Parser
         [JsonProperty("response_time")]
         public long ResponseTime { get; set; }
 
-        [JsonProperty("data_quality")]
-        public object[] DataQuality { get; set; }
+        //[JsonProperty("data_quality")]
+        //public object[] DataQuality { get; set; }
 
         [JsonProperty("survey_data")]
         public Dictionary<string, SurveyDatum> SurveyData { get; set; }

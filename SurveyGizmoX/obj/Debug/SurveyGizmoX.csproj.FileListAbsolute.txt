@@ -7,3 +7,12 @@ C:\Users\ilayarajac\Source\Repos\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmo
 C:\Users\ilayarajac\Source\Repos\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
 C:\Users\ilayarajac\Source\Repos\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
 C:\Users\ilayarajac\Source\Repos\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\bin\Debug\SurveyGizmoX.dll
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\bin\Debug\SurveyGizmoX.pdb
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csprojAssemblyReference.cache
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CoreCompileInputs.cache
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
+C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb
