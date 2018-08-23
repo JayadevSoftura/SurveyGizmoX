@@ -32,6 +32,7 @@ namespace SurveyGizmoX.Parser
         public long LinkId { get; set; }
 
         [JsonProperty("url_variables")]
+        [JsonConverter(typeof(UrlVariablesConverter))]
         public Dictionary<string, UrlVariable> UrlVariables { get; set; }
 
         [JsonProperty("ip_address")]
