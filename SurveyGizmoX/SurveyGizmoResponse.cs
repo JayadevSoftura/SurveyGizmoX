@@ -75,7 +75,7 @@ namespace SurveyGizmoX.Parser
         public string Answer { get; set; }
 
         [JsonProperty("answer_id", NullValueHandling = NullValueHandling.Ignore)]
-        public long? AnswerId { get; set; }
+        public string AnswerId { get; set; }
     }
 
     public partial class UrlVariable

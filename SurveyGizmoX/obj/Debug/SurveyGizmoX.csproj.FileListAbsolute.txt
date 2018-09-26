@@ -16,3 +16,12 @@ C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyG
 C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
 C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
 C:\Users\ilayarajac\Source\Repos\SGX\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb
+C:\Anand\D\GitHub\SurveyGizmoX\bin\Debug\SurveyGizmoX.dll
+C:\Anand\D\GitHub\SurveyGizmoX\bin\Debug\SurveyGizmoX.pdb
+C:\Anand\D\GitHub\SurveyGizmoX\bin\Debug\Newtonsoft.Json.dll
+C:\Anand\D\GitHub\SurveyGizmoX\bin\Debug\Newtonsoft.Json.xml
+C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.csprojAssemblyReference.cache
+C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CoreCompileInputs.cache
+C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
+C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
+C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb
