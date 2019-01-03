@@ -25,3 +25,11 @@ C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CoreCompileInputs.c
 C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
 C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
 C:\Anand\D\GitHub\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\bin\Debug\SurveyGizmoX.dll
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\bin\Debug\SurveyGizmoX.pdb
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\bin\Debug\Newtonsoft.Json.dll
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\bin\Debug\Newtonsoft.Json.xml
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CoreCompileInputs.cache
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.csproj.CopyComplete
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.dll
+D:\GITProjects\SurveyGizmoX\SurveyGizmoX\obj\Debug\SurveyGizmoX.pdb

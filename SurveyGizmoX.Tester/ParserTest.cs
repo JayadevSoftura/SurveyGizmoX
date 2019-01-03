@@ -17,8 +17,6 @@ namespace SurveyGizmoX.Tester
                 string json = r.ReadToEnd();
                 SurveyGizmoResponse response = SurveyGizmoResponse.FromJson(json);
                 Assert.IsNotNull(response);
-
-
             }
         }
     }

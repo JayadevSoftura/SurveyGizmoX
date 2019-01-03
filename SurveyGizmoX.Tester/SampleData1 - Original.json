@@ -52,41 +52,6 @@
       "answer": "435435345",
       "answer_id": 0,
       "shown": true
-    },
-
-    "22": {
-      "id": 22,
-      "type": "parent",
-      "question": "Languages Known",
-      "section_id": 3,
-      "options": {
-        "10136": {
-          "id": 10136,
-          "option": "English",
-          "answer": "1"
-        },
-        "10137": {
-          "id": 10137,
-          "option": "French",
-          "answer": "2"
-        },
-        "10138": {
-          "id": 10138,
-          "option": "German",
-          "answer": "3"
-        },
-        "10139": {
-          "id": 10139,
-          "option": "Spanish",
-          "answer": "4"
-        },
-        "10140": {
-          "id": 10140,
-          "option": "Portugese",
-          "answer": "5"
-        }
-      },
-      "shown": true
     }
   }
-} 
+}

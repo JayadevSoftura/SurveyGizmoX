@@ -47,11 +47,14 @@ namespace SurveyGizmoX.Parser
         [JsonProperty("response_time")]
         public long ResponseTime { get; set; }
 
-        //[JsonProperty("data_quality")]
-        //public object[] DataQuality { get; set; }
-
         [JsonProperty("survey_data")]
         public Dictionary<string, SurveyDatum> SurveyData { get; set; }
+    }
+    public class Parent
+    {
+        public long id { get; set; }
+        public string option { get; set; }
+        public string answer { get; set; }
     }
 
     public partial class SurveyDatum
@@ -76,7 +79,11 @@ namespace SurveyGizmoX.Parser
 
         [JsonProperty("answer_id", NullValueHandling = NullValueHandling.Ignore)]
         public string AnswerId { get; set; }
+
+        [JsonProperty("options")]
+        public Dictionary<string, Parent> Options { get; set; }
     }
+
 
     public partial class UrlVariable
     {
@@ -92,7 +99,8 @@ namespace SurveyGizmoX.Parser
 
     public partial class SurveyGizmoResponse
     {
-        public static SurveyGizmoResponse FromJson(string json) => JsonConvert.DeserializeObject<SurveyGizmoResponse>(json, SurveyGizmoX.Converter.Settings);
+        public static SurveyGizmoResponse FromJson(string json)
+            => JsonConvert.DeserializeObject<SurveyGizmoResponse>(json, SurveyGizmoX.Converter.Settings);
     }
 
     public static class Serialize
